@@ -1,0 +1,19 @@
+{
+    "name": "Credit Scoring Project",
+
+    "dockerComposeFile": "../docker-compose.yml",
+
+    "service": "app",
+
+    "workspaceFolder": "/app",
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}
