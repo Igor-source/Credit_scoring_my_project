@@ -5,3 +5,4 @@ creditscore/
 .ipynb_checkpoints/
 sql_request.sql
 sql_transaction.sql 
+requirements.txt
